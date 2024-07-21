@@ -14,7 +14,7 @@
 
 💡 Hashtag that describes me **`#DevOpsWizard`**
 
-📝 I regulary write articles on [Hashnode](https://lets-devops.hashnode.dev/)
+📝 About me  **I am a dedicated System Engineer with a strong interest in DevOps. I am passionate about continuous learning and skill improvement, always eager to embrace new technologies and methodologies to enhance my expertise and contribute effectively to my team and projects.**
 
 💬 Ask me about **System Engineering, System Administration and DevOps Workflow**
 
@@ -24,7 +24,7 @@
 
 - 🎖 Google Cloud Certified - Associate Cloud Engineer (GCP) 
 
-- 🎖 AWS Cloud Practitioner - [Udacity](https://graduation.udacity.com/confirm/CJFQKGVM)
+- 🎖 AWS Cloud Practitioner - [AWS](https://www.credly.com/badges/8cb93622-aa50-4527-b87e-7403ce7c20bf/public_url)
 
 - 🎖 Red Hat Certified System Administrator
 
