@@ -8,13 +8,13 @@
   &nbsp;&nbsp;
 </p>
 
-🏢 I’m currently working at AlkanCIT as **System Engineer**
+🏢 I’m currently working at Opream for Software Development as **DevOps Engineer**
 
 🌱 I’m currently working on **ACUD Unified Management System**
 
 💡 Hashtag that describes me **`#DevOpsWizard`**
 
-📝 About me  **I am a dedicated System Engineer with a strong interest in DevOps. I am passionate about continuous learning and skill improvement, always eager to embrace new technologies and methodologies to enhance my expertise and contribute effectively to my team and projects.**
+📝 About me  **I am a dedicated System Cloud DevOps Engineer with 3 years of experience in DevOps, Linux administration, automation CICD pipelines with Github Actions and Infrastructure management. I am passionate about continuous learning and skill improvement, always eager to embrace new technologies and methodologies to enhance my expertise and contribute effectively to my team and projects.**
 
 💬 Ask me about **System Engineering, System Administration and DevOps Workflow**
 
